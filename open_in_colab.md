@@ -1,1 +1,1 @@
-**linear_regression.ipynb** - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harihkim /learning_machine_learning/blob/main/linear_regression.ipynb)
+**linear_regression.ipynb** - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harihkim/learning_machine_learning/blob/main/linear_regression.ipynb)
